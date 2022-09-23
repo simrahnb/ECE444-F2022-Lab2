@@ -19,5 +19,5 @@
 ![ScreenShot](screenshots/4commit2.png)
 ![ScreenShot](screenshots/Activity4-1.png)
 ![ScreenShot](screenshots/Activity4-2.png)
-![ScreenShot](screenshots/Activity4-3.png)
+![ScreenShot](screenshots/Activity4-3-1.png)
 ![ScreenShot](screenshots/Activity4-4.png)
