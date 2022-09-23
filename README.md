@@ -6,8 +6,8 @@
 ![ScreenShot](screenshots/Activity1.png)
 
 ####Activity 2
-![ScreenShot](screenshots/Act2-1.png)
-![ScreenShot](screenshots/Act2-2.png)
+![ScreenShot](screenshots/Act2-2-1.png)
+![ScreenShot](screenshots/Act2-2-2.png)
 ![ScreenShot](screenshots/Activity2.png)
 
 ####Activity 3 
